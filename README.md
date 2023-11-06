@@ -14,11 +14,7 @@ Aqui estão as imagens de como a página inicial do site pode ser visualizada em
 
 ![Mockup de Celular](https://github.com/ClaysonReis28/E-commerce/raw/main/assets/tela-inicial-cel.png)
 
-<video width="320" height="240" controls>
-  <source src="inserir-link-do-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Mockup de Celular](https://github.com/ClaysonReis28/E-commerce/blob/main/assets/apresenta%C3%A7%C3%A3o-site-cel.gif?raw=true)
 
 ## Tecnologias e Recursos Utilizados
 
