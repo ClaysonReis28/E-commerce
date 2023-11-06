@@ -16,6 +16,8 @@ Aqui estão as imagens de como a página inicial do site pode ser visualizada em
 
 ![Mockup de Celular](https://github.com/ClaysonReis28/E-commerce/blob/main/assets/apresenta%C3%A7%C3%A3o-site-cel.gif?raw=true)
 
+**Acesse o [TechBazaar](https://claysonreis28.github.io/E-commerce/) agora para conferir a loja online!**
+
 ## Tecnologias e Recursos Utilizados
 
 - **HTML**: A estrutura da página é definida em HTML, permitindo a criação de conteúdo e estruturação da página.
