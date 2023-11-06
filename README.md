@@ -10,10 +10,7 @@ Aqui estão as imagens de como a página inicial do site pode ser visualizada em
 
 ![Mockup de Desktop](https://github.com/ClaysonReis28/E-commerce/raw/main/assets/tela-inicial-desktop.png)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/ClaysonReis28/E-commerce/blob/main/assets/apresenta%C3%A7%C3%A3o-site1.gif?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Mockup de Desktop](https://github.com/ClaysonReis28/E-commerce/blob/main/assets/apresenta%C3%A7%C3%A3o-site1.gif?raw=true)
 
 ![Mockup de Celular](https://github.com/ClaysonReis28/E-commerce/raw/main/assets/tela-inicial-cel.png)
 
