@@ -12,7 +12,6 @@ Aqui estão as imagens de como a página inicial do site pode ser visualizada em
 ![Mockup de Celular](https://github.com/ClaysonReis28/E-commerce/raw/main/assets/tela-inicial-cel.png)
 
 
-
 ## Tecnologias e Recursos Utilizados
 
 - **HTML**: A estrutura da página é definida em HTML, permitindo a criação de conteúdo e estruturação da página.
