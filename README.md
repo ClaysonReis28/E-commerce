@@ -9,7 +9,8 @@ O TechBazaar é uma loja de e-commerce fictícia que oferece uma ampla variedade
 Aqui estão as imagens de como a página inicial do site pode ser visualizada em dispositivos desktop e celulares:
 
 (https://github.com/ClaysonReis28/E-commerce/blob/main/assets/tela-inicial-desktop.png?raw=true)
-![Mockup de Celular](placeholder-mobile-mockup.jpg)
+(https://github.com/ClaysonReis28/E-commerce/assets/130229311/c6a2a61b-ff9c-4df7-b312-662a9f4e9ae8)
+
 
 
 ## Tecnologias e Recursos Utilizados
